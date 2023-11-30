@@ -1,0 +1,90 @@
+.nav-item 
+{
+   margin: 0px 60px;
+   
+}
+.navbar a
+{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+   
+    
+}
+.logo 
+{
+width: 250px;
+height: 99px;
+object-fit: cover;
+}
+body 
+{
+background-color: rgba(182, 39, 39, 0.849);
+}
+.d-block
+{
+    object-fit: cover;
+}
+.sobre
+{
+    width: 100%;
+}
+.geral
+{
+     display: flex;
+     
+}
+.retangulopreto
+{
+    background-color: black;
+    color: white;
+    display: flex;
+    width: 65%;
+   justify-content: space-around;
+   padding: 60px;
+}
+
+.h1
+{
+ display: flex;
+ justify-content: center;
+ width: 55%;
+ background-color: rgb(243, 226, 132);
+ flex-direction: column;
+text-align: center;
+padding: 15px;
+}
+.imglogo 
+{
+    height: 200px;
+    width: 450px;
+    object-fit: cover;
+display: block;
+}
+.retangulologo
+{
+    display: flex;
+    justify-content: center;
+    width: 35%;
+}
+.cardapiopizza
+{   display: flex;
+    justify-content:space-around;
+    gap: 100px ;
+    padding: 40px;
+}
+.card-img-top
+{
+  height: 300px;
+  object-fit: cover;
+}
+.titulocard
+{
+
+    color: rgb(0, 0, 0);
+}
+.cardapiobebida
+{   display: flex;
+    justify-content:space-around;
+    gap: 100px ;
+    padding: 40px;
+}
